@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co.com/Sw8R6ZNq/Frame-1362790555.jpg)](https://nability.io)
 <h1 align="center">Hi 👋, I'm Nabiel Fauzan</h1>
 <h3 align="center">Informatics Engineering Students from Indonesia</h3>
-(img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/DHJbcYnB/dribbble-code.gif")
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nability&label=Profile%20views&color=0e75b6&style=flat" alt="nability" /> </p>
 
