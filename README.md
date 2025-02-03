@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🔭 life as a student
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
 - 👯 I’m looking to collaborate on **Gemastik 2024**
 
