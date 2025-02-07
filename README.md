@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
-- 👯 I’m looking to collaborate on **Gemastik 2024**
-
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **nabielfauzan4@gmail.com**
 
 - ⚡ Fun fact **wake up**
